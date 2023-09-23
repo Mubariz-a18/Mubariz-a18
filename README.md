@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 -- Email : ( syedmubariz542@gmail.com ) -- Phone : (+91-8686613532)
 
 <!--
 **Mubariz-a18/mubariz-a18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-👋 Hi there! I'm [Your Name], a passionate Backend Developer with a strong foundation in Node.js, GraphQL, and RESTful APIs. I also dabble in front-end technologies, including React, HTML, CSS, and Next.js. 🚀
+👋 Hi there! I'm Syed Mubariz , a passionate Backend Developer with a strong foundation in Node.js, GraphQL, and RESTful APIs. I also dabble in front-end technologies, including React, HTML, CSS, and Next.js. 🚀
 
 💼 Currently, I'm working on building robust backend systems that power modern web applications. My expertise lies in:
 
